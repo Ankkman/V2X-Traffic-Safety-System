@@ -27,4 +27,7 @@ Safety metrics are compared quantitatively to demonstrate V2X benefits.
 | **Multi-Agent** | Each vehicle is an independent agent with perception → decision → action loop |
 
 ## Architecture
-<img width="1710" height="2330" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/dfe68c27-256a-4fda-bada-14b53bf3e62c" />
+
+<p align="center">
+<img width="1310" height="1930" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/dfe68c27-256a-4fda-bada-14b53bf3e62c" />
+</p>
